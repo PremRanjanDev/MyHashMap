@@ -1,4 +1,4 @@
-package com.mymap.demo;
+package com.demo;
 
 import com.mymap.MyHashMap;
 
