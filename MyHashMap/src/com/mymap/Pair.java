@@ -34,6 +34,11 @@ class Pair {
 		return true;
 	}
 
+	@Override
+	public String toString() {
+		return "{" + key + "=" + value + "}";
+	}
+
 	public Object getKey() {
 		return key;
 	}
